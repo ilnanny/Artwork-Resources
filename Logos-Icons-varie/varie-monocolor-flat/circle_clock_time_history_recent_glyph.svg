@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>circle_clock_time_history_recent_glyph</title>
+    <description>Created with Sketch.</description>
+    <defs>
+        <path d="M0,11 C0,4.92486744 4.92486744,0 11,0 C17.0751326,0 22,4.92486744 22,11 C22,17.0751326 17.0751326,22 11,22 C4.92486744,22 0,17.0751326 0,11 Z M15.9923874,5.58578644 L16.6994942,6.29289322 L11.0426399,11.9497475 L6.79999924,7.70710678 L7.50710602,7 L11.0426399,10.5355339 L15.9923874,5.58578644 Z" id="path-1"></path>
+    </defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="circle_clock_time_history_recent_glyph">
+            <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

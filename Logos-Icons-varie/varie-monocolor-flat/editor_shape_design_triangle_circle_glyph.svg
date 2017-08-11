@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>editor_shape_design_triangle_circle_glyph</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M13.6349034,6.56669656 C14.5176471,6.20151045 15.4852909,6 16.5,6 C20.6421358,6 24,9.35786417 24,13.5 C24,17.6421358 20.6421358,21 16.5,21 C13.7629493,21 11.3683379,19.5338442 10.0586979,17.3440647 L19.7121092,17.3440647 C19.7917632,17.3440647 19.8231588,17.2857725 19.7816459,17.2138653 L13.6349034,6.56669656 L13.6349034,6.56669656 Z M9.0678956,0.705149613 L17.9834923,16.1531355 C18.0208539,16.2178717 17.9925979,16.2703507 17.9209092,16.2703507 L0.0795836567,16.2703507 C0.00765838569,16.2703507 -0.0213767672,16.2196317 0.0170005675,16.1531355 L8.9325973,0.705149613 C8.9699589,0.640413482 9.02951827,0.6386535 9.0678956,0.705149613 Z" id="editor_shape_design_triangle_circle_glyph" fill="#000000" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="22px" viewBox="0 0 15 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>map_location_pin_map-marker_outline_stroke</title>
+    <description>Created with Sketch.</description>
+    <defs>
+        <path d="M15,7.8128179 C15,3.49791751 12.5187988,-1.09762448e-06 7.5,0 C2.48120115,1.09762447e-06 0,3.49791751 0,7.8128179 C0,12.1277183 7.5,22 7.5,22 C7.5,22 15,12.1277183 15,7.8128179 Z M14,7.8654274 C14,4.04085657 11.6286621,0.94043062 7.5,0.94042969 C3.37133789,0.94042875 1,4.04085657 1,7.8654274 C1,11.6899982 7.5,20.4404297 7.5,20.4404297 C7.5,20.4404297 14,11.6899982 14,7.8654274 Z M7.5,10.5 C9.7091391,10.5 11.5,8.7091391 11.5,6.5 C11.5,4.29086089 9.7091391,2.5 7.5,2.5 C5.2908609,2.5 3.5,4.29086089 3.5,6.5 C3.5,8.7091391 5.2908609,10.5 7.5,10.5 L7.5,10.5 Z" id="path-1"></path>
+    </defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="map_location_pin_map-marker_outline_stroke">
+            <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

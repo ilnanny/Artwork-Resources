@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>common_search_lookup_outline_stroke</title>
+    <description>Created with Sketch.</description>
+    <defs>
+        <path d="M13.3553211,15.4777192 C11.9788682,16.437293 10.3051477,17 8.5,17 C3.80557939,17 0,13.1944206 0,8.5 C0,3.8055794 3.80557939,0 8.5,0 C13.1944206,0 17,3.8055794 17,8.5 C17,10.6675665 16.1886623,12.6456349 14.8531104,14.1470815 L21.1970226,20.4909937 C21.25233,20.546301 21.2570031,20.6420454 21.200832,20.6982165 L19.9900319,21.9090166 C19.9353786,21.9636699 19.841084,21.9634822 19.7828091,21.9052072 L13.3553211,15.4777192 L13.3553211,15.4777192 Z M8.5,16 C12.6421359,16 16,12.6421358 16,8.5 C16,4.35786417 12.6421359,1 8.5,1 C4.35786417,1 1,4.35786417 1,8.5 C1,12.6421358 4.35786417,16 8.5,16 L8.5,16 Z" id="path-1"></path>
+    </defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="common_search_lookup_outline_stroke">
+            <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

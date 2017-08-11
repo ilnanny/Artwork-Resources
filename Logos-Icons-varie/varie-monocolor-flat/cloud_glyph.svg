@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="15px" viewBox="0 0 22 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud_glyph</title>
+    <description>Created with Sketch.</description>
+    <defs>
+        <path id="path-1" d="M17.875,14.0193103 L18.5625,13.9639007 C20.513625,13.6461296 22,11.9985269 22,10.0137931 C22,8.26939033 20.851875,6.78534621 19.248625,6.23592277 C19.190875,2.78183174 16.2889375,0 12.71875,0 C10.143375,0 7.9165625,1.44732688 6.853,3.55022343 C6.34975,3.01014619 5.6216875,2.67034483 4.81250001,2.67034483 C3.29381251,2.67034483 2.0625,3.86599174 2.0625,5.34068968 C2.0625,5.72588689 2.146375,6.09172412 2.2969375,6.4221793 C0.9356875,7.07641379 0,8.43895727 0,10.0137931 C0,11.9985269 1.486375,13.6461296 3.4375,13.9639007 L4.12500001,14.0193103 L10.9310345,14.0193103 L11.0689655,14 L17.875,14.0193103 Z"></path>
+    </defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="cloud_glyph">
+            <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

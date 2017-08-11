@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="24px" viewBox="0 0 18 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>device_tablets_ipads_vertical_outline_stroke</title>
+    <description>Created with Sketch.</description>
+    <defs>
+        <path d="M16,21.9978409 C16.0575906,21.9946461 16.1529184,21.9867239 16.2715697,21.9670796 L16,21.9676693 L16,4 C16,2 13.9393939,2 13.9393939,2 L2.06060606,2 C2.06060606,2 0,2 0,4 L0,22 C0,24 2.06060606,24 2.06060606,24 L13.9393939,24 C13.9393939,24 16,24 16,22 L16,21.9978409 L16,21.9978409 Z M17,21.7350019 C17.504855,21.4801974 18,20.9803896 18,20 L18,2 C18,0 15.9393939,0 15.9393939,0 L4.06060606,0 C4.06060606,0 2.76250559,0 2.22691069,1 L15.8888889,1 C15.8888889,1 17,1 17,2.03450212 L17,21.7350019 L17,21.7350019 Z M1,4.03450212 L1,21.9654979 C1,23 2.11111111,23 2.11111111,23 L13.8888889,23 C13.8888889,23 15,23 15,21.9654979 L15,4.03450212 C15,3 13.8888889,3 13.8888889,3 L2.11111111,3 C2.11111111,3 1,3 1,4.03450212 Z M8.74932481,21.9500122 C8.74932481,21.5357986 8.40249596,21.2000122 7.97466088,21.2000122 C7.54682578,21.2000122 7.19999695,21.5357986 7.19999695,21.9500122 C7.19999695,22.3642258 7.54682578,22.7000122 7.97466088,22.7000122 C8.40249596,22.7000122 8.74932481,22.3642258 8.74932481,21.9500122 Z M1,20 L1,21 L15,21 L15,20 L1,20 Z" id="path-1"></path>
+    </defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="device_tablets_ipads_vertical_outline_stroke">
+            <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

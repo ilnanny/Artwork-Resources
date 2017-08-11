@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="16px" viewBox="0 0 23 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>other_arrow-left_other_glyph</title>
+    <description>Created with Sketch.</description>
+    <defs>
+        <path id="path-1" d="M13.4893799,11.1515152 C13.4893799,11.1515152 1.18798828,11.2271544 1,0 C7.2183838,10.3491951 13.4900017,6.78787879 13.4900017,6.78787879 L13.4893799,1.93939394 L23.0887451,8.96969697 L13.4893799,16 L13.4893799,11.1515152 Z"></path>
+    </defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="other_arrow-left_other_glyph">
+            <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" transform="translate(12.000000, 8.000000) scale(-1, 1) translate(-12.000000, -8.000000) " xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

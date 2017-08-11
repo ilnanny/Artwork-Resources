@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="25px" viewBox="0 0 15 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>device_smart-phones_iphones_horizontal_glyph</title>
+    <description>Created with Sketch.</description>
+    <defs>
+        <path d="M14,21.75 C14.5,21.5 15,21 15,20 L15,2 C15,0 13,0 13,0 L4.00000001,0 C4.00000001,0 2.74007895,0 2.22023685,1 L13,1 C13.1086127,1 13.3415917,1.03882982 13.5527864,1.14442719 C13.8502077,1.29313786 14,1.51782625 14,2 L14,21.75 L14,21.75 Z M0,4.00308167 L0,22.0308166 C0,24.0338983 2.00000001,24.0338983 2.00000001,24.0338983 L11,24.0338983 C11,24.0338983 13,24.0338983 13,22.0308166 L13,4.00308167 C13,2 11,2 11,2 L2.00000001,2 C2.00000001,2 0,2 0,4.00308167 Z M1,4.5 L1,20.5 L12,20.5 L12,4.5 L1,4.5 Z M6.5,23.1999969 C7.05228477,23.1999969 7.5,22.7522817 7.5,22.1999969 C7.5,21.6477122 7.05228477,21.1999969 6.5,21.1999969 C5.94771523,21.1999969 5.5,21.6477122 5.5,22.1999969 C5.5,22.7522817 5.94771523,23.1999969 6.5,23.1999969 Z M4.22129529,3 C4.09907726,3 4.00000001,3.09655358 4.00000001,3.2211029 L4.00000001,3.27966755 C4.00000001,3.4017793 4.09987689,3.50077042 4.22129529,3.50077042 L8.77870471,3.50077042 C8.90092274,3.50077042 8.99999999,3.40421684 8.99999999,3.27966755 L8.99999999,3.2211029 C8.99999999,3.09899114 8.90012311,3 8.77870471,3 L4.22129529,3 Z" id="path-1"></path>
+    </defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="device_smart-phones_iphones_horizontal_glyph">
+            <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

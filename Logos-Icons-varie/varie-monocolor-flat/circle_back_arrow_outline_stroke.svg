@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>circle_back_arrow_outline_stroke</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M0,11 C0,4.92486745 4.92486745,0 11,0 C17.0751325,0 22,4.92486745 22,11 C22,17.0751325 17.0751325,22 11,22 C4.92486745,22 0,17.0751325 0,11 Z M21,11 C21,5.47715223 16.5228478,1 11,1 C5.47715223,1 1,5.47715223 1,11 C1,16.5228478 5.47715223,21 11,21 C16.5228478,21 21,16.5228478 21,11 Z M9.35456438,11.0794381 L13.2436517,7.19035081 L11.8232233,5.76992245 L6.51992245,11.0732233 L12.1767767,16.7300776 L13.5909903,15.315864 L9.35456438,11.0794381 Z" id="circle_back_arrow_outline_stroke" fill="#000000" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

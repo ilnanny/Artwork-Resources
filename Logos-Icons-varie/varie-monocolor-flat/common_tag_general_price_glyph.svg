@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>common_tag_general_price_glyph</title>
+    <description>Created with Sketch.</description>
+    <defs>
+        <path d="M8.60957372,-1.86808672 L1.48149987,4.29864327 L1.48149987,19.5668775 C1.48149987,19.8368658 1.70518247,20.0557345 1.98057672,20.0557345 L15.982423,20.0557345 C16.2580556,20.0557345 16.4814999,19.8329873 16.4814999,19.5668775 L16.4814999,4.29864327 L9.35342607,-1.86808672 C9.14801692,-2.0457929 8.81076027,-2.04213981 8.60957372,-1.86808672 Z M8.98149987,7.83351232 C10.0860694,7.83351232 10.9814999,6.95798032 10.9814999,5.87795676 C10.9814999,4.79793321 10.0860694,3.92240121 8.98149987,3.92240121 C7.87693032,3.92240121 6.98149987,4.79793321 6.98149987,5.87795676 C6.98149987,6.95798032 7.87693032,7.83351232 8.98149987,7.83351232 L8.98149987,7.83351232 Z" id="path-1"></path>
+    </defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="common_tag_general_price_glyph">
+            <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" transform="translate(8.981500, 9.000000) rotate(-45.000000) translate(-8.981500, -9.000000) " xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

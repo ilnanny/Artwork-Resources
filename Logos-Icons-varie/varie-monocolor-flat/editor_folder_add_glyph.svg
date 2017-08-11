@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>editor_folder_add_glyph</title>
+    <description>Created with Sketch.</description>
+    <defs>
+        <path d="M22,15.3541756 L22,7.00748397 C22,6.45106594 21.5605417,6 20.9975383,6 L1.00246167,6 C0.448817378,6 8.90996665e-16,6.44892021 8.56794498e-16,7.00748397 L6.16906012e-17,19.992516 C2.7619823e-17,20.5489341 0.43945834,21 1.00246167,21 L16.3541756,21 C15.5237549,20.2670555 15,19.1946925 15,18 C15,15.790861 16.790861,14 19,14 C20.1946925,14 21.2670555,14.5237549 22,15.3541756 L22,15.3541756 Z M21,5 L21,2.99895656 C21,2.44724809 20.5525106,2 20.0014977,2 L8,2 L8,1 C8,0.44771525 7.56211865,-3.55271368e-15 6.99707067,-3.55271368e-15 L2.00292933,0 C1.44902676,0 1,0.443716645 1,0.999807492 L1,5 L21,5 Z M18,15 L20,15 L20,17 L22,17 L22,19.0000001 L20,19.0000001 L20,21 L18,21 L18,19.0000001 L16,19.0000001 L16,17 L18,17 L18,15 Z" id="path-1"></path>
+    </defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="editor_folder_add_glyph">
+            <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

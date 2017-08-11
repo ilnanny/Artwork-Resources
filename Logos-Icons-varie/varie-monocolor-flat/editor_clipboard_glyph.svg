@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>editor_clipboard_glyph</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M12.0288086,3.64512694 C12.0288086,4.19741976 11.5725509,4.64514156 11.024689,4.64514156 L4.97604345,4.64514156 C4.42148349,4.64514156 3.97192383,4.19642935 3.97192383,3.64512695 L3.97192383,1.99999998 L2.19178082,2 C2.19178082,2 0,2.00000001 0,4.17364923 C3.80107207e-07,10.4669899 0,19.826087 0,19.826087 C3.36173263e-07,22 2.19178075,22 2.19178075,22 L13.8082192,22 C13.8082192,22 16,22 16,19.826087 L16,4.17364912 C16,2 13.8082192,2 13.8082192,2 L12.0288086,1.99999996 L12.0288086,3.64512694 Z M8,0 C5.9631958,1.53774439e-07 6,2.00756836 6,2.00756836 C6,2.00756836 4.99999994,2.05114746 5,3.02557373 C5.00000012,4 6,4 6,4 L10,4 C10,4 11,4.07092285 11,3.02557373 C10.9999999,1.98022461 10,2.00756836 10,2.00756836 C10,2.00756836 10.0368042,-1.52954215e-07 8,0 Z M9,2 C9,1.44771522 8.5522848,1 8,1 C7.4477152,1 7,1.44771522 7,2 C7,2.55228478 7.4477152,3 8,3 C8.5522848,3 9,2.55228478 9,2 Z" id="editor_clipboard_glyph" fill="#000000" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

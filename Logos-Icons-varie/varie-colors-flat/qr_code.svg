@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" enable-background="new 0 0 48 48">
+    <rect x="11" y="11" fill="#3F51B5" width="4" height="4"/>
+    <rect x="11" y="33" fill="#3F51B5" width="4" height="4"/>
+    <rect x="33" y="11" fill="#3F51B5" width="4" height="4"/>
+    <rect x="9" y="25" fill="#3F51B5" width="4" height="4"/>
+    <rect x="13" y="21" fill="#3F51B5" width="4" height="4"/>
+    <rect x="31" y="31" fill="#3F51B5" width="4" height="4"/>
+    <rect x="31" y="39" fill="#3F51B5" width="4" height="4"/>
+    <rect x="35" y="35" fill="#3F51B5" width="4" height="4"/>
+    <g fill="#3F51B5">
+        <rect x="39" y="25" width="4" height="4"/>
+        <rect x="21" y="39" width="4" height="4"/>
+        <polygon points="29,25 29,21 21,21 21,25 17,25 17,29 21,29 25,29 25,32 21,32 21,36 25,36 25,39 29,39 29,29 35,29 35,25"/>
+        <rect x="39" y="31" width="4" height="4"/>
+        <rect x="39" y="39" width="4" height="4"/>
+    </g>
+    <rect x="35" y="21" fill="#3F51B5" width="4" height="4"/>
+    <path fill="#3F51B5" d="M27,5v16h16V5H27z M39,17h-8V9h8V17z"/>
+    <path fill="#3F51B5" d="M5,21h16V5H5V21z M9,9h8v8H9V9z"/>
+    <path fill="#3F51B5" d="M5,43h16V27H5V43z M9,31h8v8H9V31z"/>
+</svg>

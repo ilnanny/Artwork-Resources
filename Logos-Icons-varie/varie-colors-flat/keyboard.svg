@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <path fill="none" stroke="#546E7A" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" d="M24,21 c0-12.912,13-0.962,13-14"/>
+    <rect x="2" y="21" fill="#8CBCD6" width="44" height="20"/>
+    <g fill="#E1F5FE">
+        <rect x="4" y="23" width="4" height="4"/>
+        <rect x="10" y="23" width="4" height="4"/>
+        <rect x="16" y="23" width="4" height="4"/>
+        <rect x="22" y="23" width="4" height="4"/>
+        <rect x="28" y="23" width="4" height="4"/>
+        <rect x="34" y="23" width="4" height="4"/>
+        <rect x="40" y="23" width="4" height="4"/>
+        <rect x="4" y="35" width="4" height="4"/>
+        <rect x="10" y="35" width="4" height="4"/>
+        <rect x="16" y="35" width="16" height="4"/>
+        <rect x="34" y="35" width="4" height="4"/>
+        <rect x="40" y="35" width="4" height="4"/>
+        <rect x="4" y="29" width="7" height="4"/>
+        <rect x="13" y="29" width="4" height="4"/>
+        <rect x="19" y="29" width="4" height="4"/>
+        <rect x="25" y="29" width="4" height="4"/>
+        <rect x="31" y="29" width="4" height="4"/>
+        <rect x="37" y="29" width="7" height="4"/>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="22px" viewBox="0 0 12 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>device_battery_empty_glyph</title>
+    <description>Created with Sketch.</description>
+    <defs>
+        <path d="M8,2 L9.81818182,2 C9.81818182,2 12,2 12,4.10513467 L12,19.8947368 C12,22 9.81818182,22 9.81818182,22 L2.18181818,22 C2.18181818,22 -5.23186284e-08,21.9827817 0,19.8947368 L0,4.10513467 C0,2 2.18181818,2 2.18181818,2 L3.97021484,2 L3.97021484,1.50268555 C4,1.50268555 4,0 5,0 L7,0 C8,0 8,1.50268555 8,1.50268555 L8,2 Z M2.88888889,4.00009337 C2.88888889,4.00009337 2,3.97097358 2,4.94126433 L2,19.058829 C2.00000003,20 2.88888889,20 2.88888889,20 L9.11111111,20 C9.11111111,20 10,20 10,19.058829 L10,4.94126433 C10,4.00009337 9.11111111,4.00009337 9.11111111,4.00009337 L2.88888889,4.00009337 Z" id="path-1"></path>
+    </defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="device_battery_empty_glyph">
+            <use fill="#000000" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <use fill="none" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

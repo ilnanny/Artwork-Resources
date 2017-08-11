@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="23px" viewBox="0 0 19 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.1 (7597) - http://www.bohemiancoding.com/sketch -->
+    <title>editor_open_folder_glyph</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M0.41326873,4.06775724 C0.185026713,4.19521998 0,4.48124087 0,4.70537667 L0,21.7622574 C0,21.9869421 0.182122231,22.0673782 0.41326873,21.9382934 L7.58673125,17.9322427 C7.8149733,17.80478 8,17.5187591 8,17.2946233 L8,0.237742627 C8,0.0130578706 7.81787775,-0.0673781774 7.58673125,0.061706569 L0.41326873,4.06775724 Z M8.93164062,18.2775879 L2,22 L16.4768214,22.0066396 C16.7556524,22.0066396 16.9816895,21.7790082 16.9816895,21.5089111 L16.9816895,10.9949951 L18.5000962,10.9883555 C18.7761854,10.9883555 19,10.7628928 19,10.4909699 L19,4.4973856 C19,4.22268715 18.7723685,4 18.5022715,4 L8.93164062,4 L8.93164062,18.2775879 Z M14,20 L15,20 L15,6 L14,6 L14,20 Z M12,6 L12,20 L13,20 L13,6 L12,6 Z M10,6 L10,20 L11,20 L11,6 L10,6 Z" id="editor_open_folder_glyph" fill="#000000" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

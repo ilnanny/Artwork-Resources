@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" enable-background="new 0 0 48 48">
+    <circle fill="#80DEEA" cx="24" cy="22" r="18"/>
+    <path fill="#1976D2" d="M18,9l-5,4.2V33h10V13L18,9z M17,17h-2v-2h2V17z M21,17h-2v-2h2V17z M17,21h-2v-2h2V21z M21,21h-2v-2h2V21z M17,25h-2v-2h2V25z M21,25h-2v-2h2V25z M17,29h-2v-2h2V29z M21,29h-2v-2h2V29z"/>
+    <g fill="#E0F7FA">
+        <circle cx="31" cy="13" r="1"/>
+        <circle cx="33" cy="11" r="1"/>
+        <circle cx="35" cy="17" r="1"/>
+        <circle cx="33" cy="19" r="1"/>
+        <circle cx="37" cy="19" r="1"/>
+        <circle cx="39" cy="21" r="1"/>
+        <circle cx="27" cy="9" r="1"/>
+        <circle cx="31" cy="9" r="1"/>
+        <circle cx="29" cy="11" r="1"/>
+        <circle cx="29" cy="15" r="1"/>
+        <circle cx="35" cy="21" r="1"/>
+        <circle cx="31" cy="17" r="1"/>
+        <circle cx="33" cy="15" r="1"/>
+        <circle cx="35" cy="13" r="1"/>
+        <circle cx="37" cy="15" r="1"/>
+        <circle cx="39" cy="17" r="1"/>
+    </g>
+    <g fill="#2196F3">
+        <circle cx="14" cy="33" r="3"/>
+        <circle cx="18" cy="35" r="3"/>
+        <circle cx="22" cy="33" r="3"/>
+        <path d="M33,30C33,30,32.8,30,33,30c-0.6-1.2-1.6-2-3-2c-0.4,0-1,0.2-1.4,0.4C28,27,26.6,26,25,26c-2.2,0-4,1.8-4,4 c0,0.8,0,3.2,0,4c0,2.2,1.8,4,4,4s5.8,0,8,0s4-1.8,4-4S35.2,30,33,30z"/>
+    </g>
+    <rect x="8" y="34" fill="#5C6BC0" width="32" height="4"/>
+    <rect x="6" y="38" fill="#3F51B5" width="36" height="4"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <rect x="23" y="7" fill="#546E7A" width="2" height="17"/>
+    <path fill="#546E7A" d="M11,44v-2c1.103,0,2-0.897,2-2h2C15,42.206,13.206,44,11,44z"/>
+    <path fill="#546E7A" d="M37,44v-2c-1.103,0-2-0.897-2-2h-2C33,42.206,34.794,44,37,44z"/>
+    <polygon fill="#546E7A" points="36,9 28,9 31,5 33,5"/>
+    <path fill="none" stroke="#546E7A" stroke-width="2" stroke-miterlimit="10" d="M24,7c0,0,0-3,3-3s4,0,4,0"/>
+    <path fill="none" stroke="#546E7A" stroke-width="2" stroke-miterlimit="10" d="M31,4c0,0,1,0,1,1"/>
+    <g fill="#2196F3">
+        <circle cx="34" cy="11" r="1"/>
+        <circle cx="34" cy="14" r="1"/>
+        <circle cx="34" cy="17" r="1"/>
+        <circle cx="34" cy="20" r="1"/>
+        <circle cx="30" cy="20" r="1"/>
+        <circle cx="30" cy="17" r="1"/>
+        <circle cx="30" cy="14" r="1"/>
+        <circle cx="30" cy="11" r="1"/>
+    </g>
+    <path fill="#BBDEFB" d="M36,40c-5,0-19,0-24,0S4,21,4,21s13,2,20,2s20-2,20-2S41,40,36,40z"/>
+</svg>
