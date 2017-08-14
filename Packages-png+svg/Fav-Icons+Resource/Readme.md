@@ -1,6 +1,9 @@
+
+<img src="https://github.com/ilnanny/svg-personal-resource/blob/master/Packages-png%2Bsvg/Fav-Icons%2BResource/Present.png" alt="star">
 Fav icon-pack containe 7 image file in .png format
 and 1 resource file in .svg format
 
+Video Tutorial : https://www.youtube.com/watch?v=08HcorpSJQU&list=PLC17TRHjjf7kFNW9wCBfsw4ls2srKFGox&index=1
 The software used for drawing and coloring are: Inkscape.
 Distributed with license Creative Commons (CC BY-SA 4.0)
 If you like my work, buy me a Drink. 

@@ -1,3 +1,4 @@
+<img src="https://github.com/ilnanny/svg-personal-resource/blob/master/Packages-png%2Bsvg/FLAT-ICONS/presentazione.png" alt="FLAT-ICONS">
 The resource contains 48 icons in .svg  + 48 file in .png 
 for personal use .
 
