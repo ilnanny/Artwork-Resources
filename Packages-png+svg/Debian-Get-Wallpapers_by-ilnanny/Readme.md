@@ -1,4 +1,4 @@
-<img src="http://https://github.com/ilnanny/svg-personal-resource/blob/master/Packages-png%2Bsvg/Debian-Get-Wallpapers_by-ilnanny/Debian-Get-Pres.png" alt="Debian Get">
+<img src="https://github.com/ilnanny/svg-personal-resource/blob/master/Packages-png%2Bsvg/Debian-Get-Wallpapers_by-ilnanny/Debian-Get-Pres.png" alt="Debian Get">
 The wallpaper-Pack contains2 file in two different size, for dual and single monitor.
 
 The images are in two sizes: 3840x2160 or 1920x1080 
