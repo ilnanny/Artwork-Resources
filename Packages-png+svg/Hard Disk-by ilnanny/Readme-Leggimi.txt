@@ -1,73 +1,10 @@
-  
-                                           **Italiano** 
+
+<img src="https://github.com/ilnanny/svg-personal-resource/blob/master/Packages-png%2Bsvg/Hard%20Disk-by%20ilnanny/present.png" alt="HDD">
+<b><p>The software used for drawing and coloring are: Inkscape. </b></p>
+<b><p>Distributed with license Creative Commons (CC BY-SA 3.0) </b></p>
+<b><p>If you like my work, buy me a Drink.</b></p>
+
+<b><p>PayPal: https://www.paypal.me/ilnanny</b></p>
 
 
-
-   Per altri wallpapers e customizzazioni per il vostro desktop visitate la mia pagina su deviantart:
-
-         http://ilnanny.deviantart.com/
-
-   e fate anche un giro nel mio gruppo ...sempre su deviantart : 
-
-        http://only-wallpapers.deviantart.com/
-
-    oppure su gnome look :http://gnome-look.org/usermanager/search.php?username=ilnanny75
-
-
-      Grazie !!!
-
-
-******************************************************************************************************************
-
-                                            **English**
-
-
-
-For other wallpapers and desktop customizations for your visit my page on deviantart: 
-
- http://ilnanny.deviantart.com/ 
-
- and take a ride in my group ... always on deviantart: 
-
- http://only-wallpapers.deviantart.com/ 
-
-or gnome look  http://gnome-look.org/usermanager/search.php?username=ilnanny75
-
-
- Thanks! 
-
-*****************************************************************************************************************
-
-                                            **Español **
-
-
-Para otros wallpapers y las personalizaciones de escritorio para tu visita mi página en deviantart: 
-
- http://ilnanny.deviantart.com/ 
-
- y dar un paseo en mi grupo ... siempre en deviantart: 
-
- http://only-wallpapers.deviantart.com/ 
-
-   gnome look : http://gnome-look.org/usermanager/search.php?username=ilnanny75
-
-
- Gracias! 
-
-******************************************************************************************************************
-
-                                           **Français**
-
-
-Pour d'autres wallpapers et les personnalisations de bureau pour votre visite ma page sur deviantart: 
-
- http://ilnanny.deviantart.com/ 
-
- et faire un tour dans mon groupe ... toujours sur deviantart: 
-
- http://only-wallpapers.deviantart.com/ 
-
-  sur gnome look :http://gnome-look.org/usermanager/search.php?username=ilnanny75
-
-
- Merci! 
+<b><p>Thank you</b></p>
