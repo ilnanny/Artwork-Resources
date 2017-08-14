@@ -1,4 +1,4 @@
-The wallpaper-Packcontains2 file in two different size, for dual and single monitor.
+The wallpaper-Pack contains2 file in two different size, for dual and single monitor.
 
 The images are in two sizes: 3840x2160 or 1920x1080 
                         and: 2560x2048 or 1280x1024.
