@@ -16,7 +16,7 @@
    version="1.1"
    id="svg4204"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="resource.svg"
+   sodipodi:docname="larry-cow.svg"
    inkscape:export-filename="/media/Dati/ArtWork/wall/gentoo-1280.png"
    inkscape:export-xdpi="93.023438"
    inkscape:export-ydpi="93.023438">
@@ -517,9 +517,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.10364584"
-     inkscape:cx="959.99998"
-     inkscape:cy="540"
+     inkscape:zoom="0.2931547"
+     inkscape:cx="1179.5195"
+     inkscape:cy="1153.9041"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -527,9 +527,9 @@
      inkscape:showpageshadow="false"
      inkscape:snap-page="true"
      inkscape:window-width="1280"
-     inkscape:window-height="972"
+     inkscape:window-height="973"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="23"
      inkscape:window-maximized="1"
      showborder="true" />
   <metadata
@@ -770,5 +770,41 @@
        id="rect2298"
        style="opacity:0.15;fill:url(#pattern2300);fill-opacity:1;stroke:none;stroke-width:0.21208128;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(-1,1)" />
+    <rect
+       style="opacity:1;fill:#f5efe3;fill-opacity:1;stroke:none;stroke-width:0.21208128;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4965"
+       width="338.66669"
+       height="270.93335"
+       x="-5.4152207"
+       y="-318.703" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="67.690376"
+       y="-329.36157"
+       id="text4967"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4969"
+         x="67.690376"
+         y="-329.36157">1280x1024</tspan></text>
+    <rect
+       style="opacity:1;fill:#adbac4;fill-opacity:1;stroke:none;stroke-width:1.0583334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4971"
+       width="116.42744"
+       height="89.351295"
+       x="376.35846"
+       y="-141.63362" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="416.97269"
+       y="-155.17168"
+       id="text4973"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4975"
+         x="416.97269"
+         y="-155.17168">#adbac4</tspan></text>
   </g>
 </svg>

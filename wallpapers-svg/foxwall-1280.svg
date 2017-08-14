@@ -78,8 +78,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.41045339"
-     inkscape:cx="620.18455"
-     inkscape:cy="495.29437"
+     inkscape:cx="152.40915"
+     inkscape:cy="475.80373"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -166,7 +166,8 @@
        style="opacity:0.48600003;fill:url(#pattern4920);fill-opacity:1;stroke:none;stroke-width:4.60461617;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(-1,1)" />
     <g
-       id="g9819">
+       id="g9819"
+       transform="matrix(0.70706688,0,0,0.70706688,187.4772,158.28998)">
       <g
          style="fill:#000000;fill-opacity:1"
          transform="matrix(1.0555228,0,0,-1.0555228,403.87691,642.89015)"
@@ -440,12 +441,13 @@
          inkscape:connector-curvature="0"
          id="path9792"
          d="M 771.0723,540.36219 A 131.0723,89.510152 0 0 1 640,629.87234 131.0723,89.510152 0 0 1 508.9277,540.36219 131.0723,89.510152 0 0 1 640,450.85203 131.0723,89.510152 0 0 1 771.0723,540.36219 Z"
-         style="opacity:0.292;fill:none;fill-opacity:1;stroke:#0d1d29;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:0.29200003;fill:none;fill-opacity:1;stroke:#0d1d29;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="path9795"
          transform="translate(0,28.36218)"
-         d="M 640 422.49023 A 131.0723 89.510152 0 0 0 508.92773 512 A 131.0723 89.510152 0 0 0 509.23047 517.85547 A 131.0723 89.510152 0 0 1 640 432.49023 A 131.0723 89.510152 0 0 1 770.76953 516.14453 A 131.0723 89.510152 0 0 0 771.07227 512 A 131.0723 89.510152 0 0 0 640 422.49023 z "
-         style="opacity:0.255;fill:#000000;fill-opacity:1;stroke:#0d1d29;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="M 640,422.49023 A 131.0723,89.510152 0 0 0 508.92773,512 131.0723,89.510152 0 0 0 509.23047,517.85547 131.0723,89.510152 0 0 1 640,432.49023 131.0723,89.510152 0 0 1 770.76953,516.14453 131.0723,89.510152 0 0 0 771.07227,512 131.0723,89.510152 0 0 0 640,422.49023 Z"
+         style="opacity:0.25500016;fill:#000000;fill-opacity:1;stroke:#0d1d29;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
     </g>
     <rect
        y="-293.23343"
