@@ -14,7 +14,7 @@
    viewBox="0 0 512 512"
    id="svg4726"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="Tux-di-Natale.svg">
   <title
      id="title4908">Tux di Natale</title>
@@ -31,7 +31,7 @@
      inkscape:cx="247.97648"
      inkscape:cy="216.95424"
      inkscape:document-units="px"
-     inkscape:current-layer="g5790"
+     inkscape:current-layer="g4525"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
@@ -69,10 +69,10 @@
           </cc:Agent>
         </dc:rights>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -97,7 +97,7 @@
        id="g4525"
        transform="matrix(1.703247,0,0,-1.703247,-433.57322,1210.7906)">
       <rect
-         style="opacity:1;fill:#c6eff2;fill-opacity:1;stroke:none;stroke-width:2.90717912;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.3125"
+         style="opacity:1;fill:#c6eef2;fill-opacity:1;stroke:none;stroke-width:2.90717912;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.3125"
          id="rect5871"
          width="300.60233"
          height="300.60233"
