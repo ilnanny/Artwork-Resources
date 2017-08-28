@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="1024"
+   viewBox="0 0 1280 1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="astratt0ne.svg"
+   inkscape:export-filename="/media/Dati/ArtWork/astratt0ne.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Wavy"
+       id="pattern31931"
+       patternTransform="translate(9.6374512e-7,-2.6171874e-6)" />
+    <pattern
+       inkscape:stockid="Wavy"
+       id="Wavy"
+       height="5.1805778"
+       width="30.066020"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <path
+         id="path2724"
+         d="M 7.597,0.061 C 5.079,-0.187 2.656,0.302 -0.01,1.788 L -0.01,3.061 C 2.773,1.431 5.173,1.052 7.472,1.280 C 9.770,1.508 11.969,2.361 14.253,3.218 C 18.820,4.931 23.804,6.676 30.066,3.061 L 30.062,1.788 C 23.622,5.497 19.246,3.770 14.691,2.061 C 12.413,1.207 10.115,0.311 7.597,0.061 z "
+         style="fill:black;stroke:none;" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2820"
+       id="pattern2824"
+       patternTransform="matrix(6.5152494,-6.7044895,72.427147,70.382827,-1280,0)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1white"
+       id="pattern2820"
+       patternTransform="matrix(6.5152494,-6.7044895,72.427147,70.382827,0,0)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1 white"
+       id="Strips1_1white"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect2099"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:white;stroke:none" />
+    </pattern>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2985"
+       gradientUnits="userSpaceOnUse"
+       x="187.8261"
+       y="197.05783"
+       gradientTransform="matrix(0.97418479,0,0,0.97418479,16.52173,13.949551)">
+      <meshrow
+         id="meshrow31837">
+        <meshpatch
+           id="meshpatch31839">
+          <stop
+             path="c 206.377,-0.000252933  179.712,-168.692  386.087,-168.696"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop31841" />
+          <stop
+             path="c 0.00328389,158.147  1.74441,763.241  13.9131,799.653"
+             style="stop-color:#91979a;stop-opacity:1"
+             id="stop31843" />
+          <stop
+             path="c -268.982,24.3464  -381.45,-325.216  -587.827,-325.216"
+             style="stop-color:#8d9497;stop-opacity:1"
+             id="stop31845" />
+          <stop
+             path="c 0,-158.145  187.822,-147.598  187.827,-305.741"
+             style="stop-color:#959c9f;stop-opacity:1"
+             id="stop31847" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch31849">
+          <stop
+             path="c 220.293,0.00165863  115.362,285.228  335.652,285.218"
+             id="stop31851" />
+          <stop
+             path="c 0.00418712,158.147  370.437,31.0692  370.437,189.216"
+             style="stop-color:#1c2a30;stop-opacity:1"
+             id="stop31853" />
+          <stop
+             path="c -220.29,-1.13687e-13  -471.88,325.213  -692.176,325.219"
+             style="stop-color:#858c8f;stop-opacity:1"
+             id="stop31855" />
+        </meshpatch>
+      </meshrow>
+      <meshrow
+         id="meshrow31857">
+        <meshpatch
+           id="meshpatch31859">
+          <stop
+             path="c -0.000824965,183.19  -179.126,-26.6691  -179.13,156.521"
+             id="stop31861" />
+          <stop
+             path="c -206.374,4.32972e-05  321.158,-685.212  114.782,-685.217"
+             style="stop-color:#899194;stop-opacity:1"
+             id="stop31863" />
+          <stop
+             path="c 0.00695448,-183.186  -523.475,386.664  -523.479,203.48"
+             style="stop-color:#1c2a30;stop-opacity:1"
+             id="stop31865" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch31867">
+          <stop
+             path="c 0,183.188  -219.131,147.246  -219.133,330.434"
+             id="stop31869" />
+          <stop
+             path="c -220.288,0.00412702  -431.877,151.305  -652.174,151.306"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop31871" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.575"
+     inkscape:cx="664.51524"
+     inkscape:cy="469.65104"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:date>2017</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Cristian Pozzessere  &lt; ilnanny &gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>ilnanny</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.36218)">
+    <rect
+       style="opacity:1;fill:#1c2a30;fill-opacity:0.97356826;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1376"
+       width="1280"
+       height="1024"
+       x="0"
+       y="28.362181" />
+    <g
+       id="g2834"
+       style="opacity:0.24">
+      <rect
+         style="opacity:0.443769;fill:url(#pattern2820);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect1378"
+         width="1280"
+         height="1024"
+         x="0"
+         y="28.362181" />
+      <rect
+         transform="scale(-1,1)"
+         y="28.362181"
+         x="-1280"
+         height="1024"
+         width="1280"
+         id="rect2822"
+         style="opacity:0.443769;fill:url(#pattern2824);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    </g>
+    <rect
+       y="41.579556"
+       x="16.521729"
+       height="997.56525"
+       width="1246.9565"
+       id="rect2839"
+       style="opacity:0.453;fill:url(#meshgradient2985);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.60159981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       y="28.362181"
+       x="0"
+       height="1024"
+       width="1280"
+       id="rect31923"
+       style="opacity:0.68399999;fill:url(#pattern31931);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+  </g>
+</svg>
