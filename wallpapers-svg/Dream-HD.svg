@@ -16,8 +16,8 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="Dream-HD.svg"
-   inkscape:version="0.92.1 r15371"
-   inkscape:export-filename="/media/Dati/3-Digital-Art/SVG/Dream-HD.png"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:export-filename="/home/ilnanny/2.png"
    inkscape:export-xdpi="288"
    inkscape:export-ydpi="288">
   <defs
@@ -34,7 +34,7 @@
          style="stop-color:#ebaf04;stop-opacity:0.79607844"
          offset="0" />
       <stop
-         offset="0.44353086"
+         offset="0.35491085"
          style="stop-color:#f5a82c;stop-opacity:0.73333335"
          id="stop28209" />
       <stop
@@ -7868,7 +7868,7 @@
        xlink:href="#linearGradient7545"
        id="linearGradient28205"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.63505983,0,0,0.51019527,-0.14305,201.8695)"
+       gradientTransform="matrix(0.63505983,0,0,0.53010753,-0.14305,198.13133)"
        x1="190.0625"
        y1="187.73239"
        x2="193"
@@ -7877,12 +7877,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient25028"
        id="radialGradient28207"
-       cx="58.304268"
-       cy="268.24359"
-       fx="58.304268"
-       fy="268.24359"
+       cx="51.368969"
+       cy="248.66772"
+       fx="51.368969"
+       fy="248.66772"
        r="81.267799"
-       gradientTransform="matrix(1.3363447,0.04417017,-0.01401781,0.49343905,-18.637244,99.699634)"
+       gradientTransform="matrix(1.3358386,0.06639062,-0.01579247,0.47378493,-18.118218,110.89432)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -7893,18 +7893,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.763165"
-     inkscape:cx="168.41421"
-     inkscape:cy="162.19819"
+     inkscape:cx="56.116155"
+     inkscape:cy="252.94409"
      inkscape:document-units="px"
      inkscape:current-layer="g29270"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="true"
      units="px"
-     inkscape:window-width="1280"
-     inkscape:window-height="972"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="19"
      inkscape:window-maximized="1"
      inkscape:lockguides="true"
      inkscape:snap-global="true"
@@ -8013,12 +8013,12 @@
                x="-0.13470934"
                y="198.90555" />
             <rect
-               y="249.81827"
+               y="247.95148"
                x="-0.10336138"
-               height="47.831417"
+               height="49.698215"
                width="162.5356"
                id="rect2162"
-               style="fill:url(#linearGradient28205);fill-opacity:1;stroke:none;stroke-width:0.13502358;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="fill:url(#linearGradient28205);fill-opacity:1;stroke:none;stroke-width:0.13763325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <circle
                style="fill:url(#radialGradient21671);fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3356)"
                id="path3156"
@@ -14237,9 +14237,9 @@
                ry="0" />
             <rect
                ry="0"
-               style="opacity:0.647;fill:url(#radialGradient28207);stroke-width:1.51752043;fill-opacity:1"
+               style="opacity:0.647;fill:url(#radialGradient28207);fill-opacity:1;stroke-width:1.68596542"
                id="rect25020"
-               height="49.792664"
+               height="61.460144"
                width="162.5356"
                y="198.90555"
                x="-0.13470934" />

@@ -10,14 +10,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1280"
-   height="1024"
-   viewBox="0 0 1280 1024"
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="astratt0ne.svg"
-   inkscape:export-filename="/media/Dati/ArtWork/astratt0ne.png"
+   inkscape:export-filename="/media/Dati/Artworks/astratt0ne.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -26,7 +26,7 @@
        inkscape:collect="always"
        xlink:href="#Wavy"
        id="pattern31931"
-       patternTransform="translate(9.6374512e-7,-2.6171874e-6)" />
+       patternTransform="matrix(1.5,0,0,1.0546875,0,-57.551062)" />
     <pattern
        inkscape:stockid="Wavy"
        id="Wavy"
@@ -71,7 +71,7 @@
        gradientUnits="userSpaceOnUse"
        x="187.8261"
        y="197.05783"
-       gradientTransform="matrix(0.94034225,0,0,0.89897915,38.180909,64.587825)">
+       gradientTransform="matrix(0.94034225,0,0,0.89897915,358.18091,26.587832)">
       <meshrow
          id="meshrow31837">
         <meshpatch
@@ -144,16 +144,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.41552734"
-     inkscape:cx="355.26965"
-     inkscape:cy="469.65104"
+     inkscape:zoom="0.58668534"
+     inkscape:cx="925.05793"
+     inkscape:cy="427.17987"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="975"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1" />
@@ -165,7 +165,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:date>2017</dc:date>
@@ -181,7 +181,7 @@
         </dc:subject>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -201,19 +201,20 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.36218)">
+     transform="translate(0,27.63782)">
     <rect
-       style="opacity:1;fill:#1c2a30;fill-opacity:0.97356826;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:#2d2d2d;fill-opacity:0.97356826;fill-rule:evenodd;stroke:none;stroke-width:2.0678556;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1376"
-       width="1280"
-       height="1024"
+       width="1920"
+       height="1080"
        x="0"
-       y="28.362181" />
+       y="-27.637819" />
     <g
        id="g2834"
-       style="opacity:0.24">
+       style="opacity:0.155"
+       transform="matrix(1.5,0,0,1.0546875,0,-57.551057)">
       <rect
-         style="opacity:0.443769;fill:url(#pattern2820);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         style="opacity:0.44376903;fill:url(#pattern2820);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect1378"
          width="1280"
          height="1024"
@@ -226,21 +227,21 @@
          height="1024"
          width="1280"
          id="rect2822"
-         style="opacity:0.443769;fill:url(#pattern2824);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+         style="opacity:0.44376903;fill:url(#pattern2824);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
     </g>
     <rect
-       y="90.084839"
-       x="38.180908"
+       y="52.084835"
+       x="358.18091"
        height="920.55469"
        width="1203.6382"
        id="rect2839"
-       style="opacity:0.453;fill:url(#meshgradient2985);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.51157761;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+       style="opacity:0.125;fill:url(#meshgradient2985);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.51157761;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
     <rect
-       y="28.362181"
+       y="-27.637819"
        x="0"
-       height="1024"
-       width="1280"
+       height="1080"
+       width="1920"
        id="rect31923"
-       style="opacity:0.68399999;fill:url(#pattern31931);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+       style="opacity:0.839;fill:url(#pattern31931);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.0678556;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
   </g>
 </svg>
