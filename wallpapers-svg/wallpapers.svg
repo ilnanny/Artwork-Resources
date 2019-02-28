@@ -14,7 +14,7 @@
    viewBox="0 0 9.9999997e-06 9.9999997e-06"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="wallpapers.svg">
   <defs
      id="defs4" />
@@ -25,18 +25,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29296875"
-     inkscape:cx="1.1368684e-13"
-     inkscape:cy="9.9999997e-06"
+     inkscape:zoom="0.14648438"
+     inkscape:cx="-737.28"
+     inkscape:cy="9.9999991e-06"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="946"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
      inkscape:window-x="0"
-     inkscape:window-y="19"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -96,10 +96,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:date>2017</dc:date>
+        <dc:date>20192017</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Cristian Pozzessere  &lt; ilnanny &gt;</dc:title>
@@ -128,6 +128,13 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
+  <rect
+     y="-540"
+     x="-960"
+     height="1080"
+     width="1920"
+     id="rect826"
+     style="opacity:1;fill:#280b0b;fill-opacity:1;stroke:none;stroke-width:1.49896681;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.21132076;paint-order:stroke markers fill" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -157,4 +164,11 @@
        x="-960"
        y="512.36218" />
   </g>
+  <rect
+     style="opacity:1;fill:#0c0c0c;fill-opacity:1;stroke:none;stroke-width:1.19174814;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.21132076;paint-order:stroke markers fill"
+     id="rect824"
+     width="1280"
+     height="1024"
+     x="-640"
+     y="-512" />
 </svg>

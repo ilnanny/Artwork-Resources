@@ -17,12 +17,14 @@
    sodipodi:version="0.32"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    width="800"
    height="600"
    inkscape:export-filename="/home/ilnanny/Scrivania/Monitor-LCD.png"
    inkscape:export-xdpi="157.5"
    inkscape:export-ydpi="157.5">
+  <title
+     id="title1365">MOnitor1</title>
   <sodipodi:namedview
      id="base"
      bordercolor="#666666"
@@ -34,31 +36,35 @@
      objecttolerance="10.0"
      borderopacity="1.0"
      inkscape:current-layer="g3877"
-     inkscape:cx="136.03101"
+     inkscape:cx="39.331542"
      inkscape:cy="23.745061"
-     inkscape:window-y="27"
+     inkscape:window-y="21"
      inkscape:window-x="0"
-     inkscape:window-height="971"
+     inkscape:window-height="994"
      inkscape:pageopacity="0"
-     inkscape:window-width="1280"
+     inkscape:window-width="1920"
      showgrid="false"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="-62.675581,-433.35688"
        orientation="0,800"
-       id="guide3961" />
+       id="guide3961"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="874.9704,1137.0816"
        orientation="0,-800"
-       id="guide3965" />
+       id="guide3965"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,0"
        orientation="0,800"
-       id="guide5419" />
+       id="guide5419"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="800,600"
        orientation="0,-800"
-       id="guide5423" />
+       id="guide5423"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs5">
@@ -3147,47 +3153,45 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
-           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:publisher>
           <cc:Agent
              rdf:about="http://openclipart.org/">
-            <dc:title>Openclipart</dc:title>
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title></dc:title>
-        <dc:date>2007-10-14T00:57:15</dc:date>
-        <dc:description>Andy's monitor without the background and without the &quot;linux&quot; tag</dc:description>
-        <dc:source>https://openclipart.org/detail/6977/lcd-monitor-by-molumen</dc:source>
+        <dc:title>MOnitor1</dc:title>
+        <dc:date>2015</dc:date>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:source></dc:source>
         <dc:creator>
           <cc:Agent>
-            <dc:title>molumen</dc:title>
+            <dc:title>Cristian Pozzessere  &lt; ilnanny &gt;</dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:subject>
-          <rdf:Bag>
-            <rdf:li>computer</rdf:li>
-            <rdf:li>dell</rdf:li>
-            <rdf:li>dvi</rdf:li>
-            <rdf:li>flat</rdf:li>
-            <rdf:li>hardware</rdf:li>
-            <rdf:li>lcd</rdf:li>
-            <rdf:li>monitor</rdf:li>
-            <rdf:li>plasma</rdf:li>
-            <rdf:li>remix</rdf:li>
-            <rdf:li>screen</rdf:li>
-            <rdf:li>tool</rdf:li>
-            <rdf:li>wide</rdf:li>
-          </rdf:Bag>
+          <rdf:Bag />
         </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>

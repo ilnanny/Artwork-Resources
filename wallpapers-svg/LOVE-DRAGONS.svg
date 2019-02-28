@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="LOVE-DRAGONS.svg"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    inkscape:export-filename="/media/Dati/ArtWork/svg-personal-resource/wallpapers-svg/LOVE-DRAGONS.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -1882,7 +1882,7 @@
      inkscape:pageopacity="0.98431373"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7216633"
-     inkscape:cx="380.73166"
+     inkscape:cx="255.27159"
      inkscape:cy="423.61212"
      inkscape:document-units="px"
      inkscape:current-layer="g5586"
@@ -1890,10 +1890,10 @@
      units="px"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      showborder="false" />
@@ -1908,7 +1908,7 @@
         <dc:title>Love Dragons</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:date>2009</dc:date>
+        <dc:date>2012</dc:date>
         <dc:creator>
           <cc:Agent>
             <dc:title>Cristian Pozzessere &quot;ilnanny&quot;</dc:title>
@@ -4588,4 +4588,3 @@
     </g>
   </g>
 </svg>
-
