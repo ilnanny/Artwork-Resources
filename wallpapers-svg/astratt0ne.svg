@@ -15,7 +15,7 @@
    viewBox="0 0 1920 1080"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="astratt0ne.svg"
    inkscape:export-filename="/media/Dati/Artworks/astratt0ne.png"
    inkscape:export-xdpi="96"
@@ -71,7 +71,7 @@
        gradientUnits="userSpaceOnUse"
        x="187.8261"
        y="197.05783"
-       gradientTransform="matrix(0.94034225,0,0,0.89897915,358.18091,26.587832)">
+       gradientTransform="matrix(0.62607672,0,0,0.54713666,232,56.566851)">
       <meshrow
          id="meshrow31837">
         <meshpatch
@@ -145,17 +145,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.58668534"
-     inkscape:cx="925.05793"
-     inkscape:cy="427.17987"
+     inkscape:cx="1108.0919"
+     inkscape:cy="549.90324"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="991"
      inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -165,7 +165,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:date>20192017</dc:date>
@@ -230,12 +230,12 @@
          style="opacity:0.44376903;fill:url(#pattern2824);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64404118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
     </g>
     <rect
-       y="52.084835"
-       x="358.18091"
-       height="920.55469"
-       width="1203.6382"
+       y="72.084839"
+       x="232"
+       height="560.26794"
+       width="801.37823"
        id="rect2839"
-       style="opacity:0.125;fill:url(#meshgradient2985);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.51157761;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+       style="opacity:0.26800005;fill:url(#meshgradient2985);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.96221995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
     <rect
        y="-27.637819"
        x="0"
