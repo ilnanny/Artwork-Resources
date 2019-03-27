@@ -1,15 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M-12.355 32h640v480h-640z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="480"
+   width="640"
+   version="1.1"
+   id="svg2480"
+   sodipodi:docname="cf.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <title
+     id="title16904">Bandiere del Mondo</title>
+  <metadata
+     id="metadata2484">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bandiere del Mondo</dc:title>
+        <dc:date>2016</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Cristian Pozzessere  &lt; ilnanny &gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2482"
+     showgrid="false"
+     inkscape:zoom="0.58125"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:current-layer="svg2480" />
+  <defs
+     id="defs2464">
+    <clipPath
+       id="a">
+      <path
+         fill-opacity=".67"
+         d="M-12.355 32h640v480h-640z"
+         id="path2461" />
     </clipPath>
   </defs>
-  <g clip-path="url(#a)" fill-rule="evenodd" transform="translate(12.355 -32)">
-    <path fill="#00f" d="M-52 32h719.29v118.94H-52z"/>
-    <path fill="#ff0" d="M-52 391.65h719.29V512H-52z"/>
-    <path fill="#009a00" d="M-52 271.3h719.29v120.35H-52z"/>
-    <path fill="#fff" d="M-52 150.94h719.29v120.35H-52z"/>
-    <path fill="red" d="M247.7 32.474h119.88v479.53H247.7z"/>
-    <path fill="#ff0" d="M99.253 137.653L67.837 115.93l-31.314 21.937 10.87-36.717-30.457-23.118 38.14-.968 12.49-36.22 12.702 36.113 38.173.732-30.284 23.288"/>
+  <g
+     clip-path="url(#a)"
+     fill-rule="evenodd"
+     transform="translate(12.355 -32)"
+     id="g2478">
+    <path
+       fill="#00f"
+       d="M-52 32h719.29v118.94H-52z"
+       id="path2466" />
+    <path
+       fill="#ff0"
+       d="M-52 391.65h719.29V512H-52z"
+       id="path2468" />
+    <path
+       fill="#009a00"
+       d="M-52 271.3h719.29v120.35H-52z"
+       id="path2470" />
+    <path
+       fill="#fff"
+       d="M-52 150.94h719.29v120.35H-52z"
+       id="path2472" />
+    <path
+       fill="red"
+       d="M247.7 32.474h119.88v479.53H247.7z"
+       id="path2474" />
+    <path
+       fill="#ff0"
+       d="M99.253 137.653L67.837 115.93l-31.314 21.937 10.87-36.717-30.457-23.118 38.14-.968 12.49-36.22 12.702 36.113 38.173.732-30.284 23.288"
+       id="path2476" />
   </g>
 </svg>

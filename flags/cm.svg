@@ -1,15 +1,132 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="480" width="640">
-  <path fill="#007a5e" d="M0 0h213.333v480H0z"/>
-  <path fill="#ce1126" d="M213.333 0h213.333v480H213.333z"/>
-  <path fill="#fcd116" d="M426.667 0H640v480H426.667z"/>
-  <g transform="translate(320 240) scale(7.1111)" fill="#fcd116">
-    <g id="b">
-      <path id="a" d="M0-8L-2.472-.392 1.332.845z"/>
-      <use height="100%" width="100%" xlink:href="#a" transform="scale(-1 1)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="480"
+   width="640"
+   version="1.1"
+   id="svg2600"
+   sodipodi:docname="cm.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <title
+     id="title16898">Bandiere del Mondo</title>
+  <metadata
+     id="metadata2606">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bandiere del Mondo</dc:title>
+        <dc:date>2016</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Cristian Pozzessere  &lt; ilnanny &gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2604" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2602"
+     showgrid="false"
+     inkscape:zoom="0.58125"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:current-layer="svg2600" />
+  <path
+     fill="#007a5e"
+     d="M0 0h213.333v480H0z"
+     id="path2580" />
+  <path
+     fill="#ce1126"
+     d="M213.333 0h213.333v480H213.333z"
+     id="path2582" />
+  <path
+     fill="#fcd116"
+     d="M426.667 0H640v480H426.667z"
+     id="path2584" />
+  <g
+     transform="translate(320 240) scale(7.1111)"
+     fill="#fcd116"
+     id="g2598">
+    <g
+       id="b">
+      <path
+         id="a"
+         d="M0-8L-2.472-.392 1.332.845z" />
+      <use
+         height="100%"
+         width="100%"
+         xlink:href="#a"
+         transform="scale(-1 1)"
+         id="use2587" />
     </g>
-    <use height="100%" width="100%" xlink:href="#b" transform="rotate(72)"/>
-    <use height="100%" width="100%" xlink:href="#b" transform="rotate(144)"/>
-    <use height="100%" width="100%" xlink:href="#b" transform="rotate(-144)"/>
-    <use height="100%" width="100%" xlink:href="#b" transform="rotate(-72)"/>
+    <use
+       height="100%"
+       width="100%"
+       xlink:href="#b"
+       transform="rotate(72)"
+       id="use2590" />
+    <use
+       height="100%"
+       width="100%"
+       xlink:href="#b"
+       transform="rotate(144)"
+       id="use2592" />
+    <use
+       height="100%"
+       width="100%"
+       xlink:href="#b"
+       transform="rotate(-144)"
+       id="use2594" />
+    <use
+       height="100%"
+       width="100%"
+       xlink:href="#b"
+       transform="rotate(-72)"
+       id="use2596" />
   </g>
 </svg>

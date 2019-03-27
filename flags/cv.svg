@@ -1,16 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <desc>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="480"
+   width="640"
+   version="1.1"
+   id="svg2706"
+   sodipodi:docname="cv.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata2710">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2708"
+     showgrid="false"
+     inkscape:zoom="0.58125"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:current-layer="svg2706" />
+  <desc
+     id="desc2689">
     The United States of America flag, produced by Daniel McRae
   </desc>
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M-123.43 0h682.67v512h-682.67z"/>
+  <defs
+     id="defs2694">
+    <clipPath
+       id="a">
+      <path
+         fill-opacity=".67"
+         d="M-123.43 0h682.67v512h-682.67z"
+         id="path2691" />
     </clipPath>
   </defs>
-  <g fill-rule="evenodd" clip-path="url(#a)" transform="translate(115.72) scale(.94)">
-    <path fill="#fff" d="M-123.43 233.05H723.1v205.97h-846.53z"/>
-    <path fill="#081873" d="M-122.76 0h845.95v256.64h-845.95zm.24 385.87H729.6V512h-852.12z"/>
-    <path fill="#de3929" d="M-122.52 302.55h845.95v39.65h-845.95z"/>
-    <path fill="#ffce08" d="M130.92 399.168l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522m192.64-169.138l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522M88.27 335.448l6.65 20.468h21.523l-17.412 12.65 6.652 20.47-17.41-12.65-17.412 12.65 6.65-20.47-17.41-12.65h21.52m235.289-26.458l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522m-40.44-161.748l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522m-64.43-45.218l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522m-64.44 2.892l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65H121m-34.816 43.242l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522M198.74 420.408l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522m82.17-41.708l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522"/>
+  <g
+     fill-rule="evenodd"
+     clip-path="url(#a)"
+     transform="translate(115.72) scale(.94)"
+     id="g2704">
+    <path
+       fill="#fff"
+       d="M-123.43 233.05H723.1v205.97h-846.53z"
+       id="path2696" />
+    <path
+       fill="#081873"
+       d="M-122.76 0h845.95v256.64h-845.95zm.24 385.87H729.6V512h-852.12z"
+       id="path2698" />
+    <path
+       fill="#de3929"
+       d="M-122.52 302.55h845.95v39.65h-845.95z"
+       id="path2700" />
+    <path
+       fill="#ffce08"
+       d="M130.92 399.168l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522m192.64-169.138l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522M88.27 335.448l6.65 20.468h21.523l-17.412 12.65 6.652 20.47-17.41-12.65-17.412 12.65 6.65-20.47-17.41-12.65h21.52m235.289-26.458l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522m-40.44-161.748l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522m-64.43-45.218l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522m-64.44 2.892l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65H121m-34.816 43.242l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522M198.74 420.408l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522m82.17-41.708l6.65 20.468h21.522l-17.412 12.65 6.65 20.47-17.41-12.65-17.41 12.65 6.65-20.47-17.412-12.65h21.522"
+       id="path2702" />
   </g>
 </svg>

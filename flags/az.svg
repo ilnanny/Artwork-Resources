@@ -1,8 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <path fill="#3f9c35" d="M.1 0h640v480H.1z"/>
-  <path fill="#ed2939" d="M.1 0h640v320H.1z"/>
-  <path fill="#00b9e4" d="M.1 0h640v160H.1z"/>
-  <circle cx="304" cy="240" r="72" fill="#fff"/>
-  <circle cx="320" cy="240" r="60" fill="#ed2939"/>
-  <path d="M384 200l7.654 21.522 20.63-9.806-9.806 20.63L424 240l-21.522 7.654 9.806 20.63-20.63-9.806L384 280l-7.654-21.522-20.63 9.806 9.806-20.63L344 240l21.522-7.654-9.806-20.63 20.63 9.806L384 200z" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="480"
+   width="640"
+   version="1"
+   id="svg833"
+   sodipodi:docname="az.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <title
+     id="title1297">Bandiere del Mondo</title>
+  <metadata
+     id="metadata839">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bandiere del Mondo</dc:title>
+        <dc:date>2016</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Cristian Pozzessere  &lt; ilnanny &gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs837" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview835"
+     showgrid="false"
+     inkscape:zoom="0.59641304"
+     inkscape:cx="320"
+     inkscape:cy="246.53909"
+     inkscape:current-layer="svg833" />
+  <path
+     fill="#3f9c35"
+     d="M.1 0h640v480H.1z"
+     id="path821" />
+  <path
+     fill="#ed2939"
+     d="M.1 0h640v320H.1z"
+     id="path823" />
+  <path
+     fill="#00b9e4"
+     d="M.1 0h640v160H.1z"
+     id="path825" />
+  <circle
+     cx="304"
+     cy="240"
+     r="72"
+     fill="#fff"
+     id="circle827" />
+  <circle
+     cx="320"
+     cy="240"
+     r="60"
+     fill="#ed2939"
+     id="circle829" />
+  <path
+     d="M384 200l7.654 21.522 20.63-9.806-9.806 20.63L424 240l-21.522 7.654 9.806 20.63-20.63-9.806L384 280l-7.654-21.522-20.63 9.806 9.806-20.63L344 240l21.522-7.654-9.806-20.63 20.63 9.806L384 200z"
+     fill="#fff"
+     id="path831" />
 </svg>

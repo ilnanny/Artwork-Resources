@@ -1,7 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <g fill-rule="evenodd" stroke-width="1pt">
-    <path fill="#0000b4" d="M0 0h640v480H0z"/>
-    <path fill="#fff" d="M0 75.428h640v322.285H0z"/>
-    <path fill="#d90000" d="M0 157.716h640V315.43H0z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="480"
+   width="640"
+   version="1.1"
+   id="svg2660"
+   sodipodi:docname="cr.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata2666">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2664" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2662"
+     showgrid="false"
+     inkscape:zoom="0.58125"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:current-layer="svg2660" />
+  <g
+     fill-rule="evenodd"
+     stroke-width="1pt"
+     id="g2658">
+    <path
+       fill="#0000b4"
+       d="M0 0h640v480H0z"
+       id="path2652" />
+    <path
+       fill="#fff"
+       d="M0 75.428h640v322.285H0z"
+       id="path2654" />
+    <path
+       fill="#d90000"
+       d="M0 157.716h640V315.43H0z"
+       id="path2656" />
   </g>
 </svg>

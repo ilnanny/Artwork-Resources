@@ -1,19 +1,111 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640" height="480" viewBox="-5 -5 12.8 9.6">
-  <title>
-    Flag of the People&apos;s Republic of China
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   viewBox="-5 -5 12.8 9.6"
+   version="1.1"
+   id="svg2630"
+   sodipodi:docname="cn.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata2634">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+    Flag of the People's Republic of China
+  </dc:title>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2632"
+     showgrid="false"
+     inkscape:zoom="0.58125"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:current-layer="svg2630" />
+  <title
+     id="title2608">
+    Flag of the People's Republic of China
   </title>
-  <defs>
-    <path id="b" fill="#ffde00" d="M-.588.81L0-1 .588.81-.952-.31H.952z"/>
-    <clipPath id="a">
-      <path d="M-5-15.4h26.667v20H-5z"/>
+  <defs
+     id="defs2614">
+    <path
+       id="b"
+       fill="#ffde00"
+       d="M-.588.81L0-1 .588.81-.952-.31H.952z" />
+    <clipPath
+       id="a">
+      <path
+         d="M-5-15.4h26.667v20H-5z"
+         id="path2611" />
     </clipPath>
   </defs>
-  <g transform="matrix(.48 0 0 .48 -2.6 2.39)" clip-path="url(#a)">
-    <path fill="#de2910" d="M-5-15.4h30v20H-5z"/>
-    <use height="20" width="30" transform="matrix(3 0 0 3 0 -10.4)" xlink:href="#b"/>
-    <use height="20" width="30" transform="rotate(-120.93 -1.29 -8.12)" xlink:href="#b"/>
-    <use height="20" width="30" transform="rotate(-98.11 -1.45 -8.74)" xlink:href="#b"/>
-    <use height="20" width="30" transform="rotate(-74.04 -2.07 -8.84)" xlink:href="#b"/>
-    <use height="20" width="30" transform="rotate(-51.32 -4.16 -8.4)" xlink:href="#b"/>
+  <g
+     transform="matrix(.48 0 0 .48 -2.6 2.39)"
+     clip-path="url(#a)"
+     id="g2628">
+    <path
+       fill="#de2910"
+       d="M-5-15.4h30v20H-5z"
+       id="path2616" />
+    <use
+       height="20"
+       width="30"
+       transform="matrix(3 0 0 3 0 -10.4)"
+       xlink:href="#b"
+       id="use2618" />
+    <use
+       height="20"
+       width="30"
+       transform="rotate(-120.93 -1.29 -8.12)"
+       xlink:href="#b"
+       id="use2620" />
+    <use
+       height="20"
+       width="30"
+       transform="rotate(-98.11 -1.45 -8.74)"
+       xlink:href="#b"
+       id="use2622" />
+    <use
+       height="20"
+       width="30"
+       transform="rotate(-74.04 -2.07 -8.84)"
+       xlink:href="#b"
+       id="use2624" />
+    <use
+       height="20"
+       width="30"
+       transform="rotate(-51.32 -4.16 -8.4)"
+       xlink:href="#b"
+       id="use2626" />
   </g>
 </svg>

@@ -1,13 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M-40 0h682.67v512H-40z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="480"
+   width="640"
+   version="1"
+   id="svg2830"
+   sodipodi:docname="dj.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata2834">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview2832"
+     showgrid="false"
+     inkscape:zoom="0.58125"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:current-layer="svg2830" />
+  <defs
+     id="defs2818">
+    <clipPath
+       id="a">
+      <path
+         fill-opacity=".67"
+         d="M-40 0h682.67v512H-40z"
+         id="path2815" />
     </clipPath>
   </defs>
-  <g clip-path="url(#a)" fill-rule="evenodd" transform="translate(37.5) scale(.94)">
-    <path fill="#0c0" d="M-40 0h768v512H-40z"/>
-    <path fill="#69f" d="M-40 0h768v256H-40z"/>
-    <path d="M-40 0l382.73 255.67L-40 511.01V0z" fill="#fffefe"/>
-    <path d="M119.8 292.07l-30.82-22.18-30.67 22.4 11.407-36.41-30.613-22.48 37.874-.31 11.747-36.3 12 36.216 37.874.048-30.458 22.695 11.66 36.328z" fill="red"/>
+  <g
+     clip-path="url(#a)"
+     fill-rule="evenodd"
+     transform="translate(37.5) scale(.94)"
+     id="g2828">
+    <path
+       fill="#0c0"
+       d="M-40 0h768v512H-40z"
+       id="path2820" />
+    <path
+       fill="#69f"
+       d="M-40 0h768v256H-40z"
+       id="path2822" />
+    <path
+       d="M-40 0l382.73 255.67L-40 511.01V0z"
+       fill="#fffefe"
+       id="path2824" />
+    <path
+       d="M119.8 292.07l-30.82-22.18-30.67 22.4 11.407-36.41-30.613-22.48 37.874-.31 11.747-36.3 12 36.216 37.874.048-30.458 22.695 11.66 36.328z"
+       fill="red"
+       id="path2826" />
   </g>
 </svg>
