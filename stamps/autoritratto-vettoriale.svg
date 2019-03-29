@@ -15,8 +15,11 @@
    width="512"
    height="512"
    viewBox="0 0 512 512"
-   sodipodi:docname="avatar-mio1.jpeg.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   sodipodi:docname="autoritratto-vettoriale.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:export-filename="/home/ilnanny/ilnanny-1.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -25,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1069,9 +1072,9 @@
      id="namedview4"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="0.70410156"
-     inkscape:cx="256"
-     inkscape:cy="256"
+     inkscape:zoom="1.9790963"
+     inkscape:cx="151.15417"
+     inkscape:cy="252.71567"
      inkscape:current-layer="g143" />
   <g
      id="g143">
