@@ -15,8 +15,8 @@
    viewBox="0 0 1920 1080"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="archlabs-wall-gold.svg"
-   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="archlabs_gold.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    inkscape:export-filename="/media/Dati/ArtWork/archlabs-wall-gold.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -27,7 +27,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.07058824"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.31933357"
+     inkscape:zoom="1"
      inkscape:cx="959.99997"
      inkscape:cy="539.99996"
      inkscape:document-units="px"
@@ -36,14 +36,19 @@
      units="px"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:grid-bbox="true" />
   <defs
      id="defs2">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2320"
+       id="pattern1590"
+       patternTransform="matrix(-10.423865,18.054664,2.2915124,1.3230053,1930,-834)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient2785">
@@ -380,10 +385,15 @@
        style="fill:#4a5155;fill-opacity:0.99595139;stroke:none"
        d="M -10,-834 H 1930 V 266 H -10 Z"
        id="rect2309" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.08;fill:url(#pattern1590);fill-opacity:1;stroke:none"
+       d="M 1930,-833.99999 H -9.999995 V 266 H 1930 Z"
+       id="path1588" />
     <g
        id="g984"
-       transform="matrix(2.2469567,0,0,2.2469568,852.14608,-284.85393)"
-       style="opacity:0.69899998">
+       transform="matrix(2.1455013,0,0,2.1455014,857.01594,-386.98407)"
+       style="opacity:1">
       <path
          sodipodi:nodetypes="ccccccscccccccccccccccsccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
@@ -420,17 +430,12 @@
        width="1940"
        id="rect2304"
        style="opacity:0;fill:url(#Wavy);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.24875641;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
-    <path
-       id="path2316"
-       d="M -9.999995,-833.99999 H 1930 V 266 H -9.999995 Z"
-       style="opacity:0.19100001;fill:url(#pattern2320);fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
     <g
        transform="translate(-370.5,104.27717)"
        id="g2329" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.152;fill:url(#radialGradient2787);fill-opacity:1;stroke:none;filter:url(#filter2831)"
+       style="opacity:0.19;fill:url(#radialGradient2787);fill-opacity:1;stroke:none;filter:url(#filter2831)"
        d="M -9.999995,-833.99999 H 1930 V 266 H -9.999995 Z"
        id="path2779" />
   </g>

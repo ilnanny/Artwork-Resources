@@ -30,15 +30,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="645.6832"
+     inkscape:cx="746.41549"
      inkscape:cy="332.0483"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
+     inkscape:window-height="1048"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -61,6 +61,18 @@
      inkscape:snap-center="true" />
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2254">
+      <stop
+         style="stop-color:#fffded;stop-opacity:1;"
+         offset="0"
+         id="stop2250" />
+      <stop
+         style="stop-color:#fffded;stop-opacity:0;"
+         offset="1"
+         id="stop2252" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern3338"
@@ -2694,6 +2706,17 @@
          stdDeviation="14.32543"
          id="feGaussianBlur8606" />
     </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2254"
+       id="radialGradient2256"
+       cx="426.07504"
+       cy="772.54999"
+       fx="426.07504"
+       fy="772.54999"
+       r="960"
+       gradientTransform="matrix(0.55109756,0.00291392,-0.00135617,0.25648656,198.37203,358.15394)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -2762,8 +2785,15 @@
        width="1920"
        id="rect7178"
        style="opacity:0.862;fill:url(#pattern7180);fill-opacity:1;stroke:none;stroke-width:20.20495987;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92460315;paint-order:stroke fill markers" />
+    <rect
+       style="opacity:0.188;fill:url(#radialGradient2256);fill-opacity:1;stroke:none;stroke-width:20.20495987;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.92460315;paint-order:stroke fill markers"
+       id="rect2248"
+       width="1920"
+       height="1080"
+       x="-527.86676"
+       y="-176.45583" />
     <g
-       transform="matrix(0.58992244,0,0,0.58992244,95.215193,177.93869)"
+       transform="matrix(0.58992244,0,0,0.58992244,95.215193,207.93869)"
        id="g8100">
       <path
          style="fill:url(#radialGradient8102);fill-opacity:1;stroke:none;stroke-width:0.74105984"
