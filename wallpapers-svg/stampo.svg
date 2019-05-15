@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="stampo.svg"
-   inkscape:export-filename="/home/ilnanny/patu.png"
+   inkscape:export-filename="/home/ilnanny/Git/backgrounds/backgrounds/patu.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192">
   <defs
@@ -2960,7 +2960,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0063882"
-     inkscape:cx="33.675401"
+     inkscape:cx="428.95592"
      inkscape:cy="708.24019"
      inkscape:document-units="px"
      inkscape:current-layer="g13949"
@@ -2969,9 +2969,9 @@
      width="1280mm"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
   <metadata
@@ -5452,24 +5452,24 @@
         </g>
       </g>
       <g
-         style="fill:url(#linearGradient7042);fill-opacity:1;stroke:#faf5fa;stroke-opacity:1"
+         style="fill:url(#linearGradient7042);fill-opacity:1;stroke:none;stroke-opacity:1"
          id="g6370"
          clip-path="none"
          mask="none"
-         transform="matrix(1.777063,0,0,-1.777063,-2467.1087,1158.4202)">
+         transform="matrix(1.777063,0,0,-1.777063,-2467.9711,1158.4202)">
         <g
-           style="fill:url(#linearGradient12990);fill-opacity:1;stroke:#faf5fa;stroke-opacity:1"
+           style="fill:url(#linearGradient12990);fill-opacity:1;stroke:none;stroke-opacity:1"
            id="g6368"
            clip-path="url(#clipPath674-9)">
           <g
-             style="fill:url(#linearGradient12988);fill-opacity:1;stroke:#faf5fa;stroke-opacity:1"
+             style="fill:url(#linearGradient12988);fill-opacity:1;stroke:none;stroke-opacity:1"
              id="g6366">
             <g
-               style="fill:url(#linearGradient12986);fill-opacity:1;stroke:#faf5fa;stroke-opacity:1"
+               style="fill:url(#linearGradient12986);fill-opacity:1;stroke:none;stroke-opacity:1"
                id="g6364">
               <path
                  d="m 516.371,596.64 98.613,-99.029 -98.613,-99.507 z"
-                 style="fill:url(#linearGradient12984);fill-opacity:1;stroke:#faf5fa;stroke-opacity:1"
+                 style="fill:url(#linearGradient12984);fill-opacity:1;stroke:none;stroke-opacity:1"
                  id="path6362"
                  inkscape:connector-curvature="0" />
             </g>
