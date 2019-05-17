@@ -25207,19 +25207,6 @@
          style="stop-color:#EFA747"
          id="stop12498" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter56991"
-       x="-0.2532"
-       width="1.5064"
-       y="-0.2532"
-       height="1.5064">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="23.159338"
-         id="feGaussianBlur56993" />
-    </filter>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern6613"
@@ -25280,7 +25267,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.74316406"
-     inkscape:cx="256"
+     inkscape:cx="-6.3915909"
      inkscape:cy="309.82392"
      inkscape:document-units="px"
      inkscape:current-layer="g12507"
@@ -25288,9 +25275,9 @@
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="28"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -25350,9 +25337,9 @@
          inkscape:connector-curvature="0"
          id="path57021"
          d="M 168.00003,263.19695 H 406.66317 V 501.86009 H 168.00003 Z"
-         style="opacity:1;fill:#19aeff;fill-opacity:1;stroke:none;stroke-width:1.79292893;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+         style="opacity:1;fill:#fcfdfe;fill-opacity:1;stroke:none;stroke-width:1.79292893;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
       <path
-         style="opacity:0.268;fill:url(#pattern57739);fill-opacity:1;stroke:none;stroke-width:1.79292893;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         style="opacity:0.15;fill:url(#pattern57739);fill-opacity:1;stroke:none;stroke-width:1.79292893;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          d="M 168.00003,263.19695 H 406.66317 V 501.86009 H 168.00003 Z"
          id="rect56880"
          inkscape:connector-curvature="0" />
