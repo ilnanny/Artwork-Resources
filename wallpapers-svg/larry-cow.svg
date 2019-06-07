@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -15,15 +16,31 @@
    viewBox="0 0 508.00002 285.75"
    version="1.1"
    id="svg4204"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="larry-cow.svg"
-   inkscape:export-filename="/media/Dati/ArtWork/wall/gentoo-1280.png"
-   inkscape:export-xdpi="93.023438"
-   inkscape:export-ydpi="93.023438">
+   inkscape:export-filename="/media/Dati/Git/backgrounds/backgrounds/larryisacow.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
   <title
      id="title4984">Larry-Cow</title>
   <defs
      id="defs4198">
+    <linearGradient
+       id="linearGradient5383"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#364e59;stop-opacity:1;"
+         offset="0"
+         id="stop5381" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5355"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#727394;stop-opacity:1;"
+         offset="0"
+         id="stop5353" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern2296"
@@ -509,6 +526,33 @@
        fx="332.72311"
        fy="590.5899"
        r="218.02184" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5355"
+       id="linearGradient5359"
+       x1="-5.4152207"
+       y1="-183.23633"
+       x2="333.25147"
+       y2="-183.23633"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5355"
+       id="linearGradient5361"
+       x1="8.9575851e-06"
+       y1="154.12501"
+       x2="508.00001"
+       y2="154.12501"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5355"
+       id="linearGradient5385"
+       x1="376.35846"
+       y1="-96.95797"
+       x2="492.78589"
+       y2="-96.95797"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -517,19 +561,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.2931547"
-     inkscape:cx="1179.5195"
-     inkscape:cy="1153.9041"
+     inkscape:zoom="0.69583333"
+     inkscape:cx="960"
+     inkscape:cy="540"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:snap-page="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="973"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-width="1919"
+     inkscape:window-height="1020"
+     inkscape:window-x="1"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      showborder="true" />
   <metadata
@@ -554,7 +598,7 @@
         </dc:subject>
         <dc:description>personal wallpaper</dc:description>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
@@ -584,7 +628,7 @@
        height="285.75"
        width="508"
        id="rect6436"
-       style="opacity:1;fill:#f5efe3;fill-opacity:1;stroke:none;stroke-width:0.21208128;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:url(#linearGradient5361);fill-opacity:1;stroke:none;stroke-width:0.21208128;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        transform="matrix(2.928903,0,0,2.928903,107.23357,-276.26579)"
        id="g4324"
@@ -771,7 +815,7 @@
        style="opacity:0.15;fill:url(#pattern2300);fill-opacity:1;stroke:none;stroke-width:0.21208128;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(-1,1)" />
     <rect
-       style="opacity:1;fill:#f5efe3;fill-opacity:1;stroke:none;stroke-width:0.21208128;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient5359);fill-opacity:1;stroke:none;stroke-width:0.21208128;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4965"
        width="338.66669"
        height="270.93335"
@@ -782,14 +826,13 @@
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="67.690376"
        y="-329.36157"
-       id="text4967"
-       sodipodi:linespacing="125%"><tspan
+       id="text4967"><tspan
          sodipodi:role="line"
          id="tspan4969"
          x="67.690376"
          y="-329.36157">1280x1024</tspan></text>
     <rect
-       style="opacity:1;fill:#adbac4;fill-opacity:1;stroke:none;stroke-width:1.0583334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient5385);fill-opacity:1.0;stroke:none;stroke-width:1.0583334;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4971"
        width="116.42744"
        height="89.351295"
@@ -798,13 +841,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="416.97269"
+       x="404.71051"
        y="-155.17168"
-       id="text4973"
-       sodipodi:linespacing="125%"><tspan
+       id="text4973"><tspan
          sodipodi:role="line"
          id="tspan4975"
-         x="416.97269"
-         y="-155.17168">#adbac4</tspan></text>
+         x="404.71051"
+         y="-155.17168">#Cange color</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="77.336151"
+       y="0.097956277"
+       id="text4967-3"><tspan
+         style="stroke-width:1px"
+         sodipodi:role="line"
+         id="tspan4969-6"
+         x="77.336151"
+         y="0.097956277">1920x1080</tspan></text>
   </g>
 </svg>
