@@ -15,7 +15,7 @@
    viewBox="0 0 512.00002 512.00002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version=""
    sodipodi:docname="pattern3.svg">
   <defs
      id="defs4">
@@ -52,10 +52,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient9994"
        id="linearGradient10008"
-       x1="87.729111"
-       y1="962.7077"
-       x2="360.24567"
-       y2="648.36755"
+       x1="-21.494083"
+       y1="892.5459"
+       x2="390.72656"
+       y2="613.87134"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5223577,0,0,1.6534216,-36.422764,-531.66271)" />
     <pattern
@@ -90,17 +90,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0344199"
-     inkscape:cx="170.87977"
-     inkscape:cy="250.53138"
+     inkscape:cx="-28.749027"
+     inkscape:cy="251.49811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -110,7 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:date>2019</dc:date>

@@ -15,7 +15,7 @@
    viewBox="0 0 512.00002 512.00002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version=""
    sodipodi:docname="pattern-metal3.svg">
   <title
      id="title9392">PATTERN-METAL3</title>
@@ -30,7 +30,7 @@
        inkscape:collect="always"
        id="linearGradient9351">
       <stop
-         style="stop-color:#b3babc;stop-opacity:1;"
+         style="stop-color:#a8b0b2;stop-opacity:1"
          offset="0"
          id="stop9347" />
       <stop
@@ -42,11 +42,11 @@
          offset="0.50914633"
          id="stop9359" />
       <stop
-         style="stop-color:#758184;stop-opacity:0.99607843"
+         style="stop-color:#7a8989;stop-opacity:0.99607843"
          offset="0.82317072"
          id="stop9357" />
       <stop
-         style="stop-color:#b3babc;stop-opacity:0.99603176"
+         style="stop-color:#a7afb1;stop-opacity:0.99607843"
          offset="1"
          id="stop9349" />
     </linearGradient>
@@ -54,10 +54,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient9351"
        id="linearGradient9353"
-       x1="-156.53938"
-       y1="793.2861"
-       x2="67.67424"
-       y2="793.2861"
+       x1="-183.48094"
+       y1="770.23608"
+       x2="71.266449"
+       y2="903.19525"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.2835365,0,0,2.4318182,357.4634,-1132.7654)" />
     <clipPath
@@ -110,17 +110,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4628906"
-     inkscape:cx="21.560422"
-     inkscape:cy="250.53138"
+     inkscape:cx="184.18386"
+     inkscape:cy="251.21496"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">

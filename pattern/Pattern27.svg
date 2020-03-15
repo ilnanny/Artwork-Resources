@@ -15,7 +15,7 @@
    viewBox="0 0 512.00002 512.00002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version=""
    sodipodi:docname="pattern-metal2.svg">
   <title
      id="title3367">pattern metal 2</title>
@@ -66,10 +66,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3353"
        id="linearGradient3355"
-       x1="0"
-       y1="540.36218"
-       x2="514"
-       y2="1054.3622"
+       x1="-68.625496"
+       y1="530.94299"
+       x2="621.64783"
+       y2="968.2439"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -79,18 +79,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.74316406"
-     inkscape:cx="308.3908"
-     inkscape:cy="174.19795"
+     inkscape:zoom="1.5097276"
+     inkscape:cx="257"
+     inkscape:cy="255.00002"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="991"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />

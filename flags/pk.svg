@@ -1,15 +1,97 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M-52.334 0h682.67v512h-682.67z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="480"
+   width="640"
+   version="1"
+   id="svg19"
+   sodipodi:docname="pk.svg"
+   inkscape:version="">
+  <title
+     id="title25">Bandiere del Mondo</title>
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bandiere del Mondo</dc:title>
+        <dc:date>2016</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Cristian Pozzessere  &lt; ilnanny &gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="0.49166667"
+     inkscape:cx="320"
+     inkscape:cy="240"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="a">
+      <path
+         fill-opacity=".67"
+         d="M-52.334 0h682.67v512h-682.67z"
+         id="path2" />
     </clipPath>
   </defs>
-  <g fill-rule="evenodd" clip-path="url(#a)" transform="translate(49.063) scale(.9375)" stroke-width="1pt">
-    <path fill="#0c590b" d="M-95 0h768v512H-95z"/>
-    <path fill="#fff" d="M-95 0H97.52v512H-95z"/>
-    <g fill="#fff">
-      <path d="M403.702 225.4l-31.165-6.556-16.389 27.306-3.395-31.666-31.036-7.15 29.067-13.014-2.791-31.724 21.36 23.622 29.309-12.458-15.865 27.614 20.905 24.026z"/>
-      <path d="M415.455 306.086c-27.665 60.96-100.277 87.588-161.41 59.27-61.142-28.326-87.777-100.93-59.451-162.071 14.447-31.184 38.089-52.614 71.462-64.31-3.839 3.246-7.637 6.613-11.8 10.908-43.11 44.491-41.99 115.592 2.5 158.699 44.49 43.11 115.592 41.991 158.698-2.5z"/>
+  <g
+     fill-rule="evenodd"
+     clip-path="url(#a)"
+     transform="translate(49.063) scale(.9375)"
+     stroke-width="1pt"
+     id="g17">
+    <path
+       fill="#0c590b"
+       d="M-95 0h768v512H-95z"
+       id="path7" />
+    <path
+       fill="#fff"
+       d="M-95 0H97.52v512H-95z"
+       id="path9" />
+    <g
+       fill="#fff"
+       id="g15">
+      <path
+         d="M403.702 225.4l-31.165-6.556-16.389 27.306-3.395-31.666-31.036-7.15 29.067-13.014-2.791-31.724 21.36 23.622 29.309-12.458-15.865 27.614 20.905 24.026z"
+         id="path11" />
+      <path
+         d="M415.455 306.086c-27.665 60.96-100.277 87.588-161.41 59.27-61.142-28.326-87.777-100.93-59.451-162.071 14.447-31.184 38.089-52.614 71.462-64.31-3.839 3.246-7.637 6.613-11.8 10.908-43.11 44.491-41.99 115.592 2.5 158.699 44.49 43.11 115.592 41.991 158.698-2.5z"
+         id="path13" />
     </g>
   </g>
 </svg>
